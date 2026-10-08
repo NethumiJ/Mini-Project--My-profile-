@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "My Profile",
+    "slug": "profile-mini-project",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
